@@ -1,0 +1,51 @@
+*{background-color: #4682A9;
+margin:0;
+padding:0;
+}
+
+.survey{text-align:center;
+color:#91C8E4;
+margin-top:50px;
+margin-bottom: 50px;}
+
+.form-details{background-color:#F6F4EB;
+height:250px;
+width:600px;
+margin:auto;
+padding:50px;
+font-size: 1.3rem;}
+
+label{background-color:#F6F4EB;
+margin-top:10px;
+margin-bottom:10px}
+
+input{background-color:#F6F4EB;
+border:none;
+margin-left:200px;
+height:2rem;
+font-size: 1.3rem;
+margin-top: 10px;
+margin-bottom:10px}
+
+select{background-color:#F6F4EB ;
+border:none;
+height:2rem;
+font-size:1.2rem;
+margin-left:150px}
+
+.input-age{margin-left:215px}
+.input-no{margin-left:120px}
+
+/* button */
+.button{background-color: #749BC2;
+height:50px;
+width:150px;
+margin:auto;
+margin-top:35px;}
+
+.submit{background-color: #749BC2;
+height:50px;
+width:150px;
+border:none}
+
+.submit:hover{border:2px solid white}
